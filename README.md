@@ -8,10 +8,10 @@
 
 ---
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css)](https://skillicons.dev)
 
 ### Stack
-[![My Skills](https://skillicons.dev/icons?i=django,tailwind,angular,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,tailwind,docker,git)](https://skillicons.dev)
 
 ---
 
