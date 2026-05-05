@@ -1,16 +1,10 @@
-Here is a clean, structured `README.md` template you can use for your GitHub profile (main page). It balances clarity, technical focus, and customization.
-
----
-
 # 👋 Hi, I'm Axel
 
 ## 🧠 About Me
 
-* 🎓 Student
+* 🎓 Student at 42 Angoulême
 * 💻 Focused on **backend, data science, and AI**
 * 🔬 Interested in **theoretical physics & mathematics**
-* ✍️ Working on personal writing projects
-* 🎼 Enjoy film music
 
 ---
 
@@ -18,12 +12,10 @@ Here is a clean, structured `README.md` template you can use for your GitHub pro
 
 ### Backend
 
-* Python (Django, DRF, FastAPI)
-* Go (Gin)
+* Python (Django, DRF)
 
 ### Frontend
 
-* React / Next.js
 * Angular (learning)
 
 ### Data / AI
@@ -34,7 +26,7 @@ Here is a clean, structured `README.md` template you can use for your GitHub pro
 
 * Git / GitHub
 * Linux
-* Docker (basic)
+* Docker (basics)
 
 ---
 
@@ -64,40 +56,3 @@ Here is a clean, structured `README.md` template you can use for your GitHub pro
 * Building **scalable backend systems**
 * Exploring **AI / ML applications**
 * Learning **advanced frontend architecture (Angular)**
-
----
-
-## 📫 Contact
-
-* GitHub: [https://github.com/your-username](https://github.com/your-username)
-* Email: [your-email@example.com](mailto:your-email@example.com)
-
----
-
-## ⚙️ Optional Add-ons
-
-If you want to enhance it further, you can add:
-
-### GitHub Stats
-
-```md
-![Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
-```
-
-### Top Languages
-
-```md
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-```
-
----
-
-## Notes
-
-* Replace placeholders (`your-username`, etc.)
-* Keep it concise; this is a **landing page**, not a CV
-* Prioritize **projects over buzzwords**
-
----
-
-If you want, I can tailor this to be more minimal, more “research-oriented,” or more “startup/dev focused.”
