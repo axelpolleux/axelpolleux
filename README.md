@@ -1,32 +1,15 @@
 # 👋 Hi, I'm Axel
 
-## 🧠 About Me
-
 * 🎓 Student at 42 Angoulême
 * 💻 Focused on **backend, data science, and AI**
 * 🔬 Interested in **theoretical physics & mathematics**
 
 ---
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,c,html,css,ts)](https://skillicons.dev)
 
-## 🚀 Tech Stack
-
-### Backend
-
-* Python (Django, DRF)
-
-### Frontend
-
-* Angular (learning)
-
-### Data / AI
-
-* Python (NumPy, Pandas, ML basics)
-
-### Tools
-
-* Git / GitHub
-* Linux
-* Docker (basics)
+### Stack
+[![My Skills](https://skillicons.dev/icons?i=django,tailwind,angular,docker,git)](https://skillicons.dev)
 
 ---
 
