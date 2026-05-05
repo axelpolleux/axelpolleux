@@ -15,8 +15,7 @@
 
 ---
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<figure><embed src="https://wakatime.com/share/@409fd6b2-a1db-42a2-b0c0-a02c25389434/353c7d38-00c5-4aca-b1a3-50d2f1375390.svg"></embed></figure>
 
 
 ## 📌 Projects
