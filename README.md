@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Axel
 
+![img](https://raw.githubusercontent.com/axelpolleux/axelpolleux/refs/heads/main/logo.png)
+
 * 🎓 Student at 42 Angoulême
 * 💻 Focused on **backend, data science, and AI**
 * 🔬 Interested in **theoretical physics & mathematics**
