@@ -7,16 +7,14 @@
 * 🔬 Interested in **theoretical physics & mathematics**
 
 ---
+
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=python,c,html,css)](https://skillicons.dev)
 
 ### Stack
 [![My Skills](https://skillicons.dev/icons?i=django,tailwind,docker,git)](https://skillicons.dev)
 
----
-
-<figure><embed src="https://wakatime.com/share/@409fd6b2-a1db-42a2-b0c0-a02c25389434/353c7d38-00c5-4aca-b1a3-50d2f1375390.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@409fd6b2-a1db-42a2-b0c0-a02c25389434/21defdea-6382-4a8e-a6d5-22d8a2f13766.png" /></a>
 
 ## 📌 Projects
 
